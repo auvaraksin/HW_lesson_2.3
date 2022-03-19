@@ -1,0 +1,8 @@
+package pro.sky;
+
+public class Car extends Vehicle{
+
+    public Car(String modelName, int wheelsCount) {
+        super(modelName, wheelsCount);
+    }
+}
